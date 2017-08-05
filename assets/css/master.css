@@ -1,0 +1,10 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.carousel-img {
+	max-width: 70%;
+	max-height: 70%;
+	margin: 0 auto;
+}
